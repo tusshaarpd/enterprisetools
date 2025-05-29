@@ -1,1 +1,10 @@
+gradio>=4.0.0
+langchain>=0.1.0
+langchain-community>=0.0.30
+langchain-openai>=0.1.0
+openai>=1.0.0
+faiss-cpu>=1.7.4
+python-dotenv>=1.0.0
+unstructured[docx]>=0.10.0
+flask>=2.0.0
 
