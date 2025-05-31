@@ -1,4 +1,4 @@
- # enterprisetools
+ # Enterprisetools
 
 1. Document QA Bot – AI-Powered Document Intelligence Tool
 Built using Gradio, LangChain, OpenAI GPT-4o, and FAISS
