@@ -63,6 +63,20 @@ A Streamlit app that:
 
 #AI #GenAI #GPT4o #CrewAI #SalesEnablement #PreSales #RFP #ProposalAutomation #streamlit #opensource #productivitytools
 
+*************************************************************************************************************************************************************************
+𝘚𝘮𝘢𝘳𝘵 𝘍𝘭𝘰𝘸𝘤𝘩𝘢𝘳𝘵 𝘎𝘦𝘯𝘦𝘳𝘢𝘵𝘰𝘳 𝘜𝘴𝘪𝘯𝘨 𝘊𝘳𝘦𝘸𝘈𝘐 𝘢𝘯𝘥 𝘎𝘳𝘢𝘱𝘩𝘷𝘪𝘻
+𝘑𝘶𝘴𝘵 𝘣𝘶𝘪𝘭𝘵 𝘢 𝘴𝘪𝘮𝘱𝘭𝘦 𝘺𝘦𝘵 𝘦𝘧𝘧𝘦𝘤𝘵𝘪𝘷𝘦 𝘵𝘰𝘰𝘭 𝘵𝘩𝘢𝘵 𝘨𝘦𝘯𝘦𝘳𝘢𝘵𝘦𝘴 𝘧𝘭𝘰𝘸𝘤𝘩𝘢𝘳𝘵𝘴 𝘧𝘳𝘰𝘮 𝘯𝘢𝘵𝘶𝘳𝘢𝘭 𝘭𝘢𝘯𝘨𝘶𝘢𝘨𝘦 𝘪𝘯𝘱𝘶𝘵 𝘶𝘴𝘪𝘯𝘨 𝘊𝘳𝘦𝘸𝘈𝘐 𝘢𝘯𝘥 𝘎𝘳𝘢𝘱𝘩𝘷𝘪𝘻.
+
+Users can type in any process or workflow description in plain English, and the tool uses GPT-4o Mini to understand the logic and Graphviz to render a visual flowchart.
+
+Built with:
+1. CrewAI to manage task-specific agents
+2. GPT-4o Mini for natural language understanding
+3. Graphviz for clean and structured flowchart generation
+4. Streamlit for a lightweight and user-friendly interface
+
+hashtag#AI hashtag#Flowchart hashtag#CrewAI hashtag#GPT4o hashtag#Graphviz hashtag#NLP hashtag#ProcessAutomation hashtag#Streamlit hashtag#enterprisetools hashtag#AIproductManagement
+
 
 
 
