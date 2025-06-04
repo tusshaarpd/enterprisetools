@@ -40,3 +40,30 @@ Core Features (Summary)
 10. Generates natural-language summaries of each clause
 This was created with help of Manus AI 
 
+****************************************************************************************************************************************************************************
+ RFP/RFI Analyzer Powered by GPT-4o Mini + CrewAI 🧠📄
+
+If you’ve ever stared at a long RFP or RFI wondering where to even begin… you're not alone. 
+Whether you're in pre-sales, sales engineering, or proposal teams, going through dozens of pages to extract key asks, compliance checks, deadlines, and scoring logic is painful and slow.
+
+So I built something to help! 
+
+👉 RFP/RFI Analyzer
+A Streamlit app that:
+1. Extracts text from uploaded PDF, DOCX, or TXT RFPs/RFIs 📂
+2. Uses CrewAI with GPT-4o Mini to analyze the document step-by-step 🧩
+3. Summarizes key deliverables, compliance requirements, deadlines, and evaluation criteria 🎯
+4. Outputs a business-friendly summary your team can act on quickly ✅
+
+🎯 Built using:
+1. crewai for multi-agent task orchestration
+2. gpt-4o-mini for fast, cost-effective reasoning
+3. streamlit for a lightweight UI
+4. Supports PDF, DOCX, and TXT inputs
+
+#AI #GenAI #GPT4o #CrewAI #SalesEnablement #PreSales #RFP #ProposalAutomation #streamlit #opensource #productivitytools
+
+
+
+
+
