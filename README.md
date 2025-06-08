@@ -77,6 +77,23 @@ Built with:
 
 hashtag#AI hashtag#Flowchart hashtag#CrewAI hashtag#GPT4o hashtag#Graphviz hashtag#NLP hashtag#ProcessAutomation hashtag#Streamlit hashtag#enterprisetools hashtag#AIproductManagement
 
+**************************************************************************************************************************************************************************
+
+𝐁𝐮𝐢𝐥𝐭 𝐚𝐧 𝐀𝐈-𝐩𝐨𝐰𝐞𝐫𝐞𝐝 𝐄𝐧𝐭𝐞𝐫𝐩𝐫𝐢𝐬𝐞 𝐋𝐨𝐠 𝐀𝐧𝐚𝐥𝐲𝐳𝐞𝐫 𝐟𝐨𝐫 𝐈𝐓 & 𝐃𝐞𝐯𝐎𝐩𝐬 𝐭𝐞𝐚𝐦𝐬
+
+I recently built a smart log analysis tool using Streamlit, CrewAI, and Claude 3.5 Hiraku.
+What it does:
+
+Takes raw system/application logs as input
+1. Automatically categorizes them (INFO, WARNING, ERROR, etc.)
+2. Explains what each log means in plain language
+3. Suggests practical fixes for issues
+4. Generates a summary report with key insights and error trends
+
+This tool can help DevOps and IT teams quickly triage logs, understand issues, and prioritize fixes without digging through 100s of lines manually.
+hashtag#aiproductmanagement hashtag#loganalyzer hashtag#enterprisetools hashtag#streamlit hashtag#crewai
+hashtag#insights hashtag#sdlc
+
 
 
 
